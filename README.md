@@ -18,3 +18,5 @@ Evaluation – performance measures, results, and conclusions.
 Deployment - A discussion of either the hypothetical deployment of the model or the actual deployment of the model if it has been deployed.
 
 Discussion and conclusions – address the problem statement and recommendation.
+
+The Kaggle dataset has been copied to this repo. It is named ecommdataset
