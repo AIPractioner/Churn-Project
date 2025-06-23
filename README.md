@@ -20,3 +20,5 @@ Deployment - A discussion of either the hypothetical deployment of the model or 
 Discussion and conclusions – address the problem statement and recommendation.
 
 The Kaggle dataset has been copied to this repo. It is named ecommdataset
+
+https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
